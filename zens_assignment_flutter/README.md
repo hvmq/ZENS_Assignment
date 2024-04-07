@@ -2,7 +2,7 @@
 Đây là một ứng dụng hiển thị các câu chuyện cười để người dùng bình chọn.
 ![demo_HoVuMinhQuang](https://github.com/hvmq/ZenS_Assignment/blob/main/zens_assignment_flutter/assets/images/app.png)
 
-[Live Demo](https://zens-assignment.vercel.app/)
+[Live Demo](https://zen-s-assignment.vercel.app/)
 ## Yêu cầu đã hoàn thành
 + Đã triển khai thiết kế đầy đủ
 + Ứng dụng đáp ứng di động.
